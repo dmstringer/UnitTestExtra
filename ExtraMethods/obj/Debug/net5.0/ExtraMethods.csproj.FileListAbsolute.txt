@@ -1,0 +1,16 @@
+C:\Users\scott\code\TrueCoders\UnitTestExtra\ExtraMethods\bin\Debug\net5.0\ExtraMethods.exe
+C:\Users\scott\code\TrueCoders\UnitTestExtra\ExtraMethods\bin\Debug\net5.0\ExtraMethods.deps.json
+C:\Users\scott\code\TrueCoders\UnitTestExtra\ExtraMethods\bin\Debug\net5.0\ExtraMethods.runtimeconfig.json
+C:\Users\scott\code\TrueCoders\UnitTestExtra\ExtraMethods\bin\Debug\net5.0\ExtraMethods.runtimeconfig.dev.json
+C:\Users\scott\code\TrueCoders\UnitTestExtra\ExtraMethods\bin\Debug\net5.0\ExtraMethods.dll
+C:\Users\scott\code\TrueCoders\UnitTestExtra\ExtraMethods\bin\Debug\net5.0\ref\ExtraMethods.dll
+C:\Users\scott\code\TrueCoders\UnitTestExtra\ExtraMethods\bin\Debug\net5.0\ExtraMethods.pdb
+C:\Users\scott\code\TrueCoders\UnitTestExtra\ExtraMethods\obj\Debug\net5.0\ExtraMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scott\code\TrueCoders\UnitTestExtra\ExtraMethods\obj\Debug\net5.0\ExtraMethods.AssemblyInfoInputs.cache
+C:\Users\scott\code\TrueCoders\UnitTestExtra\ExtraMethods\obj\Debug\net5.0\ExtraMethods.AssemblyInfo.cs
+C:\Users\scott\code\TrueCoders\UnitTestExtra\ExtraMethods\obj\Debug\net5.0\ExtraMethods.csproj.CoreCompileInputs.cache
+C:\Users\scott\code\TrueCoders\UnitTestExtra\ExtraMethods\obj\Debug\net5.0\ExtraMethods.dll
+C:\Users\scott\code\TrueCoders\UnitTestExtra\ExtraMethods\obj\Debug\net5.0\ref\ExtraMethods.dll
+C:\Users\scott\code\TrueCoders\UnitTestExtra\ExtraMethods\obj\Debug\net5.0\ExtraMethods.pdb
+C:\Users\scott\code\TrueCoders\UnitTestExtra\ExtraMethods\obj\Debug\net5.0\ExtraMethods.genruntimeconfig.cache
+C:\Users\scott\code\TrueCoders\UnitTestExtra\ExtraMethods\obj\Debug\net5.0\ExtraMethods.csprojAssemblyReference.cache
